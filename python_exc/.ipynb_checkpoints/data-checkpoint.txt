@@ -1,0 +1,5 @@
+你好虚拟环境
+.\d2l-env\Scripts\activate
+
+启动 Jupyter Notebook
+jupyter notebook你好你好你好
