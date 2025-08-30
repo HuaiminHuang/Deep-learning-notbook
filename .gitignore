@@ -1,0 +1,18 @@
+# 忽略特定的文件夹
+data/
+
+# 忽略jupyter notebook检查点
+.ipynb_checkpoints/
+
+# 数据文件
+*.csv
+*.h5
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# 环境相关
+.env
+venv/
+.env/
