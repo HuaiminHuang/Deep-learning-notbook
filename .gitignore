@@ -1,5 +1,6 @@
 # 忽略特定的文件夹
 data/
+dataset/
 
 # 忽略jupyter notebook检查点
 .ipynb_checkpoints/
