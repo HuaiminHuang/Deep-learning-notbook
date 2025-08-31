@@ -7,6 +7,7 @@ imgs/
 .ipynb_checkpoints/
 
 # 数据文件
+*.jsonl
 *.csv
 *.h5
 *.npy
@@ -18,3 +19,4 @@ imgs/
 .env
 venv/
 .env/
+env_LLM/firefly-train-1.1M.jsonl
