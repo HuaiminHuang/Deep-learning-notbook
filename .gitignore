@@ -3,6 +3,8 @@ data/
 dataset/
 imgs/
 Thesis/
+model/
+code/
 
 # 忽略jupyter notebook检查点
 .ipynb_checkpoints/
