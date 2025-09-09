@@ -18,6 +18,7 @@ code/
 *.pkl
 *.joblib
 *.env
+*.pt
 
 # 环境相关
 .env
